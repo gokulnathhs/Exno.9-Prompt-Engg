@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 # Date: 
-# Register no.:
+# Register no.: 212222040045
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -31,6 +31,29 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
+OUTPUT
+
+
+<img width="739" height="341" alt="Screenshot 2025-10-21 232153" src="https://github.com/user-attachments/assets/46f26094-49fa-4cd7-9742-79ad1d9c6f76" />
+
+
+<img width="991" height="420" alt="Screenshot 2025-10-21 232157" src="https://github.com/user-attachments/assets/750f114c-988a-4fe3-9d1d-9373574bbffe" />
+
+
+<img width="1010" height="134" alt="Screenshot 2025-10-21 232201" src="https://github.com/user-attachments/assets/777fd802-3be5-4147-b52e-8a24dd2c9579" />
+
+
+<img width="634" height="312" alt="Screenshot 2025-10-21 232205" src="https://github.com/user-attachments/assets/757c9a0b-c500-430a-93fd-33f3d62bcc6a" />
+
+
+<img width="689" height="435" alt="Screenshot 2025-10-21 232211" src="https://github.com/user-attachments/assets/e5d7b774-3bde-4e7f-8de0-a9d955d1d369" />
+
+
+<img width="983" height="487" alt="Screenshot 2025-10-21 232216" src="https://github.com/user-attachments/assets/4af9b048-2b64-4979-bc71-b944060d9e70" />
+
+
+<img width="714" height="237" alt="Screenshot 2025-10-21 232222" src="https://github.com/user-attachments/assets/5b3a87f9-5e0f-4c9e-9170-5663a0f12d99" />
+
 
 # Result: The Prompt of the above task executed successfully
 
@@ -43,4 +66,3 @@ Save different versions of the videos and compare the results to understand how 
 
 
 # Result:
-
